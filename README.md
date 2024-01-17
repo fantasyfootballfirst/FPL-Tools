@@ -40,4 +40,4 @@ Any feedback or suggestions are appreciated. Please create an issue in the repos
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
