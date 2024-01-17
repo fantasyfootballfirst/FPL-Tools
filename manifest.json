@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Odds to Percentage Converter",
+  "version": "1.0",
+  "description": "Converts betting odds to percentages",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content-script.js"]
+    }
+  ]
+}
